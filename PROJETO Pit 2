@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="CONTENT-TYPE" content="texto/html; charset=UTF-8">
+<title>PROJETO PIT 2</title>
+</head>
+<body>
+<h4>ACESSO À PROPAGANDA ATRAVÉS DE VÍDEO</h4>
+<video controle posters="demo.jpg">
+<sourse src="video/demo.mp4" type="video/mp4">
+<sourse src="video/demo.webm" type="video/webm">
+<sourse src="video/demo.ogg" type="video/ogg">
+<object>
+<embed src="demo.mp4" type="application/x-shockwave-flash"
+allowfullscreen="false"allowscriptaccess="always">
+</object>
+Formato não suportado
+</video>
+</body>
+</html>
